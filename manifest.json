@@ -1,0 +1,13 @@
+{
+  "name": "YEi Portal",
+  "short_name": "YEi Portal",
+  "start_url": "https://yunusemreportal.blogspot.com/",
+  "scope": "https://yunusemreportal.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f1d3f",
+  "icons": [
+    { "src": "https://alaturka83.github.io/yei-portal/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "https://alaturka83.github.io/yei-portal/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
